@@ -137,3 +137,13 @@ Detailed implementation steps, AWS configuration screenshots, architecture infor
 **Completed – Hands-on AWS implementation and documentation.**
 
 This project is part of my ongoing Cloud Engineering and DevOps learning journey.
+
+---
+
+## Project Resources
+
+- [AWS Architecture Diagram](architecture/README.md)
+- [Detailed Project Documentation](AWS_Project_1_Premium_GitHub_Portfolio.pdf)
+- [Implementation Screenshots](screenshots/README.md)
+
+---
